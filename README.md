@@ -5,4 +5,5 @@ Repositório específico para criação dos dados das reviews do projeto.
 # Criando o arquivo
 
 Instalar as dependências: pip install datasets
+<br>
 Executar o arquivo dataset.py -> python dataset.py
